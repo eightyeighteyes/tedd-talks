@@ -32,6 +32,17 @@ you will spend less time chasing down regressions (because you'll find them as s
 
 you will spend less time in manual testing
 
+you will spend less time chasing down regressions (because you'll find them as soon as you write them
+
+## TESTING IS QA'S JOB
+
+no it’s not
+
+I mean, it is. But it’s not just QA’s job.  Quality is an uncompromisable piece of sustainable software development and that takes mindfulness on everyone’s part
+
+Also, QA can’t find every bug
+
+
 ## I NEED A DATABASE TO TEST THAT
 
 if you're talking about unit tests, no you don't
