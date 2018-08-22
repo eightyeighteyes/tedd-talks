@@ -1,6 +1,8 @@
 # START WRITING TESTS
 
-lies i tell myself to weasel out of best practices
+overcoming test inertia
+
+or... 8 lies i tell myself
 
 # WHY WRITE A TEST?
 
@@ -57,5 +59,10 @@ some code was not written with testing in mind
 
 friendly advice: do what you can.  if you're writing something new, write tests.  if you're refactoring old code, try to do it in a way that's testable.  if it's totally impossible, cover your cases through external testing (hopefully as automated as possible!)
 
- 
+ ## I DON'T WANNA
 
+you do you, but the person that hates me the most when I don’t write tests is future me
+
+----
+
+writing good tests, like writing good code, is a bit of an art, but it's not an art that takes long to develop.  tests increase your confidence and will continue to work for you as your project grows and matures.  start writing tests!

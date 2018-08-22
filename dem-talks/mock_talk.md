@@ -520,7 +520,7 @@ class ApplyPresetTest(unittest.TestCase):
 Instead of stubbing out everything, let's give it a futureproof fix with a mock!
 
 ```python
-from processor import Processor
+from processor import Processor, ParamType
 
 class ApplyPresetTest(unittest.TestCase):
     def test_alphabetical_order(self):
